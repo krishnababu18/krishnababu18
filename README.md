@@ -23,19 +23,26 @@ Databricks with PySpark, Spark SQL, Delta Lake
 Real-time systems with Event Hubs + Kafka + Spark Streaming
 
 Data governance using Purview, Entra ID, Unity Catalog, RLS/CLS/OLS
+
 CI/CD automation using GitHub Actions, Jenkins, Terraform
+
 AI-integrated data pipelines & anomaly/fraud detection models
 
 # My Current Focus
 
 Building intelligent data workflows using AI Foundry + Power Platform
+
 Creating reusable Fabric/Data Engineering templates
+
 Exploring agentic workflows with custom copilots
+
 Publishing open-source examples in Azure, Fabric, and PySpark
 
 # Certifications
 
 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
 Databricks Lakehouse Fundamentals
+
 Databricks AI Fundamentals
 
