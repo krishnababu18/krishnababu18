@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Krishna Babu Gali 👋</h1>
-<h3 align="center">Sr. Azure Data Engineer | Microsoft Fabric | Databricks | AI & Automation</h3>
+<h3 align="center">Azure Data Engineer | Microsoft Fabric | Databricks | AI & Automation</h3>
 
 <p align="center">
   <a href="mailto:krishnababugali07@gmail.com"><img src="https://img.shields.io/badge/Email-krishnababugali07%40gmail.com-red?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/krishna-babu-gali-b6286212a/"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20Babu%20Gali-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/krishna-g-b55b2b245/"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20G-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -108,19 +108,10 @@ I’m also building **AI + automation solutions** using:
 
 ## 🏆 Certifications
 
-- Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**  
+- Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
 - Databricks Lakehouse Fundamentals  
 - Databricks AI Fundamentals  
 - IBM: Introduction to AI, Computer Networks & Security  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishna-babu-gali&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-babu-gali&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
